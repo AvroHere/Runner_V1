@@ -1,10 +1,7 @@
 # Core dependencies
-PyMuPDF==1.23.25
 GitPython==3.1.41
 setuptools==69.0.3
 
-# GUI dependencies
-tkinter==0.1.0  # Usually included with Python
 
 # Optional utilities
 requests==2.31.0  # For potential web operations
