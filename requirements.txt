@@ -1,0 +1,4 @@
+# Required dependencies
+tkinter
+pkg_resources
+gitpython
